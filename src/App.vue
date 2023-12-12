@@ -20,12 +20,14 @@ export default {
   padding: 0;
   margin: 0;
 }
-#app{
+body{
   width: 100%;
+  height: 100vh;
   background: rgb(7,15,48);
   background: linear-gradient(90deg, rgba(7,15,48,1) 0%, rgba(20,37,112,1) 50%, rgba(7,15,48,1) 100%);
+  background-attachment: fixed;
 }
-@media only screen and (min-width: 320px) and (max-width: 639px) {
+/* @media only screen and (min-width: 320px) and (max-width: 639px) {
   #app{
   width: 100%;
   height: 560vh;
@@ -60,6 +62,6 @@ export default {
   width: 100%;
   height: 220vh;
   }
-}
+} */
 
 </style>

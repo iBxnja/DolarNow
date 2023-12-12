@@ -82,6 +82,7 @@
       md:w-40 md:h-12 md:bg-white md:rounded-full md:mt-5
       lg:w-40 lg:h-12 lg:bg-white lg:rounded-full lg:mt-5
       xl:w-40 xl:h-12 xl:bg-white xl:rounded-full xl:mt-5
+      mb-3
       ">CONVERTIR</button>
     </section>
   </template>
